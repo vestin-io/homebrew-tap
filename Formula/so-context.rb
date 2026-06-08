@@ -6,8 +6,8 @@ class SoContext < Formula
   stable do
     url "git@github.com:vestin-io/so-context.git",
         using: GitDownloadStrategy,
-        tag: "v0.0.7",
-        revision: "065506c4d2fa72aac568ec281273ee47cb78c346"
+        tag: "v0.0.8",
+        revision: "3c5a7f2a1fb7bd08b02f0ab06716d5b3f9af32d9"
   end
 
   head "git@github.com:vestin-io/so-context.git", branch: "main"
